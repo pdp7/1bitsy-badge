@@ -1,4 +1,4 @@
-update=Mon 16 May 2016 09:37:02 PM CDT
+update=Tue Feb 28 23:30:55 2017
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/pdp7/dev/oshpark/wickerlib/libraries/wickerlib
+LibName31=/home/pdp7/dev/oshpark/1bitsy-hardware-lib/kicad/1bitsy
